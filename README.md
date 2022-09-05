@@ -1,5 +1,5 @@
 ## Hi there 👋 Welcome to my Profile !
-###  I´m Gustavo, Front-end Developer and currently graduating majoring in Computer Science.
+###  I´m Gustavo, Front-end Developer and currently graduating in Computer Science.
 
 <div align="center">
   <a href="https://github.com/quilantera">
