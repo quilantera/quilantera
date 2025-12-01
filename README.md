@@ -1,5 +1,5 @@
 ## Hi there 👋 Welcome to my Profile !
-###  I´m Gustavo, Front-end Developer and currently graduating in Computer Science.
+###  I’m Gustavo, a Full-Stack Developer with a degree in Computer Science from UNESP – Presidente Prudente.
 
 <div align="center">
   <a href="https://github.com/quilantera">
